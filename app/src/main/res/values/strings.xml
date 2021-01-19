@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cập nhật tin tức 24h</string>
+    <string name="tab_text_8">Du lịch</string>
+    <string name="tab_text_1">Tin tức trong ngày</string>
+    <string name="tab_text_2">Bóng đá</string>
+    <string name="tab_text_3">Tài chính</string>
+    <string name="tab_text_4">Thời trang</string>
+    <string name="tab_text_5">An ninh</string>
+    <string name="tab_text_6">Ẩm thực</string>
+    <string name="tab_text_7">Ca nhạc</string>
+</resources>
+
